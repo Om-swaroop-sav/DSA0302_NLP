@@ -1,0 +1,14 @@
+{
+  "reports": [
+    {
+      "id": "R01",
+      "speaker": "A",
+      "text": "Water is rising near the bridge. It has covered the east lane."
+    },
+    {
+      "id": "R02",
+      "speaker": "B",
+      "text": "A tree fell across Lake Road. It blocks both lanes."
+    }
+  ]
+}

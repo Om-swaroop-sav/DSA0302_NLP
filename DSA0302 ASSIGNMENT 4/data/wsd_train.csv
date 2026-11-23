@@ -1,0 +1,51 @@
+term,context,sense
+service,The employee completed qualifying service before retirement.,employment
+service,Her years of employment service count toward pension.,employment
+service,Qualifying service is recorded in the employee file.,employment
+service,The worker served the department for twenty years.,employment
+service,His government employment service ended at retirement.,employment
+service,The department provides customer service at the helpdesk.,assistance
+service,The pension service counter answered the enquiry.,assistance
+service,Contact the support service for assistance.,assistance
+service,The office offers a public enquiry service.,assistance
+service,The helpdesk service assists retired employees.,assistance
+dependent,A dependent child may receive family pension.,family_member
+dependent,The employee listed his spouse as a dependent.,family_member
+dependent,A dependent family member may claim an entitlement.,family_member
+dependent,The pension form asks for dependent relatives.,family_member
+dependent,His daughter is recorded as a family dependent.,family_member
+dependent,The result is dependent on the retirement date.,conditional
+dependent,Eligibility is dependent on qualifying years.,conditional
+dependent,Payment is conditional upon document verification.,conditional
+dependent,The outcome depends on the service record.,conditional
+dependent,The claim is dependent upon the applicable rule.,conditional
+benefit,The pension benefit is payable monthly.,entitlement
+benefit,Family benefit is available to an eligible spouse.,entitlement
+benefit,The employee receives a retirement benefit.,entitlement
+benefit,The scheme grants a medical benefit to pensioners.,entitlement
+benefit,The allowance is a statutory pension benefit.,entitlement
+benefit,The new policy may benefit retired employees.,advantage
+benefit,This change will benefit pensioners.,advantage
+benefit,The revised process benefits applicants by reducing delay.,advantage
+benefit,The update is beneficial to pensioners.,advantage
+benefit,The new portal benefits users with faster service.,advantage
+revision,The pension revision changed the monthly amount.,recalculation
+revision,The annual revision updates pension rates.,recalculation
+revision,The revised calculation increases the pension amount.,recalculation
+revision,The department notified a pension rate revision.,recalculation
+revision,The new circular revises the pension calculation.,recalculation
+revision,The officer submitted a revision of the decision.,appeal
+revision,The employee requested revision of the rejected claim.,appeal
+revision,The applicant filed an appeal against the decision.,appeal
+revision,The tribunal reviewed the challenged order.,appeal
+revision,The pensioner sought reconsideration of the rejection.,appeal
+award,The pension award grants a monthly entitlement.,grant
+award,The tribunal issued an award in the dispute.,grant
+award,The authority approved an award of pension.,grant
+award,The order grants the claimant a pension award.,grant
+award,The court made an award in favour of the applicant.,grant
+award,The employee received an award for service.,prize
+award,The department gave an award for excellence.,prize
+award,She received a prize for outstanding work.,prize
+award,The officer was honoured with an achievement award.,prize
+award,The employee won a recognition prize.,prize

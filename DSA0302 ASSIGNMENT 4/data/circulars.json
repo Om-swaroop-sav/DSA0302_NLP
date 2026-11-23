@@ -1,0 +1,10 @@
+[
+ {"id":"C001","title":"Qualifying service and retirement pension","text":"An employee who completes ten years of qualifying service may receive retirement pension. Qualifying service excludes unauthorised absence."},
+ {"id":"C002","title":"Family pension for dependants","text":"Family pension may be paid to an eligible spouse or dependent child after the death of a pensioner."},
+ {"id":"C003","title":"Commutation of pension","text":"A pensioner may commute a permitted portion of pension. Commutation value uses the prescribed age factor and pension amount."},
+ {"id":"C004","title":"Revision of pension benefits","text":"Pension revision is governed by the applicable government circular. Revised benefits apply from the effective date."},
+ {"id":"C005","title":"Break in qualifying service","text":"A break in service may affect qualifying service. A competent authority may condone an eligible break."},
+ {"id":"C006","title":"Dependent family member","text":"A dependent family member may qualify for family pension subject to age, income and relationship conditions."},
+ {"id":"C007","title":"Retirement date and revised scheme","text":"The revised pension scheme applies to employees retiring on or after its effective date."},
+ {"id":"C008","title":"Service record verification","text":"The department verifies appointment date, retirement date, service periods and breaks before calculating qualifying service."}
+]
