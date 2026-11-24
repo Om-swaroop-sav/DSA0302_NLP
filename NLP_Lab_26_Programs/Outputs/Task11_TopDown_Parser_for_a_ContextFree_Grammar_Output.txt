@@ -1,0 +1,3 @@
+Sentence: the student reads a book
+Parse count: 1
+(S (NP (Det the) (N student)) (VP (V reads) (NP (Det a) (N book))))

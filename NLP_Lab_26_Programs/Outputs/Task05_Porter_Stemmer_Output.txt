@@ -1,0 +1,8 @@
+playing         -> play
+played          -> play
+player          -> player
+studies         -> studi
+studying        -> studi
+connected       -> connect
+connection      -> connect
+generously      -> gener

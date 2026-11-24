@@ -1,0 +1,4 @@
+Query: python language processing
+D1: python supports natural language processing | TF-IDF cosine=0.7746
+D2: natural language processing uses language models | TF-IDF cosine=0.5632
+D3: python programming supports data analysis | TF-IDF cosine=0.2154

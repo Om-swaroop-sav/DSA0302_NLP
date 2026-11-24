@@ -1,0 +1,7 @@
+GREETING        Hello, good morning!
+REQUEST         Could you send the report, please?
+QUESTION        What time is the lab?
+THANKING        Thank you for your help.
+CONFIRMATION    Yes, I agree.
+CLOSING         Goodbye, see you tomorrow.
+STATEMENT       The experiment starts at ten.

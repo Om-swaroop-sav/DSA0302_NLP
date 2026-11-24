@@ -1,0 +1,7 @@
+Sentences:
+1. Natural language processing studies human language.
+2. Language processing uses statistical and neural models.
+3. These models learn patterns from text data.
+Adjacent sentence 0-1 lexical overlap: 0.250
+Adjacent sentence 1-2 lexical overlap: 0.111
+Simple lexical-cohesion score: 0.181 (heuristic, not a validated language metric)

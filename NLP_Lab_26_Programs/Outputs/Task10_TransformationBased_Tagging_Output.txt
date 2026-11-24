@@ -1,0 +1,2 @@
+Initial: [('they', 'PRP'), ('book', 'NN'), ('a', 'DT'), ('book', 'NN'), ('and', 'CC'), ('students', 'NNS'), ('are', 'VBP'), ('playing', 'NN')]
+After transformations: [('they', 'PRP'), ('book', 'VBP'), ('a', 'DT'), ('book', 'NN'), ('and', 'CC'), ('students', 'NNS'), ('are', 'VBP'), ('playing', 'VBG')]

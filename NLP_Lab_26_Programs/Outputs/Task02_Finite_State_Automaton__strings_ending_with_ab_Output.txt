@@ -1,0 +1,7 @@
+'ab': ACCEPT
+'aab': ACCEPT
+'babab': ACCEPT
+'aba': REJECT
+'abb': REJECT
+'': REJECT
+'acb': REJECT

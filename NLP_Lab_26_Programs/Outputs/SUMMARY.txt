@@ -1,0 +1,32 @@
+DSA03 NLP LAB - RUN SUMMARY
+Date: 2026-11-24T23:08:31
+Python: 3.14.3
+
+PASS     | Task01_Regular_Expressions__matching_and_searching.py | exit=0
+PASS     | Task02_Finite_State_Automaton__strings_ending_with_ab.py | exit=0
+PASS     | Task03_Morphological_Analysis_using_NLTK.py | exit=0
+PASS     | Task04_FiniteState_Morphological_Parser__plural_generation.py | exit=0
+PASS     | Task05_Porter_Stemmer.py | exit=0
+PASS     | Task06_Ngram_Model__bigram_text_generation.py | exit=0
+PASS     | Task07_NLTK_PartofSpeech_Tagging.py | exit=0
+PASS     | Task08_Stochastic_POS_Tagging__simple_Viterbi_model.py | exit=0
+PASS     | Task09_RuleBased_POS_Tagging_using_Regular_Expressions.py | exit=0
+PASS     | Task10_TransformationBased_Tagging.py | exit=0
+PASS     | Task11_TopDown_Parser_for_a_ContextFree_Grammar.py | exit=0
+PASS     | Task12_Earley_Parser_for_a_ContextFree_Grammar.py | exit=0
+PASS     | Task13_Generate_a_Parse_Tree_using_a_CFG.py | exit=0
+PASS     | Task14_Sentence_Agreement_Checking_using_a_CFG.py | exit=0
+PASS     | Task15_Probabilistic_ContextFree_Grammar_Parsing.py | exit=0
+PASS     | Task16_Named_Entity_Recognition_using_spaCy.py | exit=0
+PASS     | Task17_WordNet__synsets_and_meanings.py | exit=0
+PASS     | Task18_FirstOrder_Predicate_Logic_Parser.py | exit=0
+PASS     | Task19_Word_Sense_Disambiguation_using_Lesk_Algorithm.py | exit=0
+PASS     | Task20_Information_Retrieval_using_TFIDF.py | exit=0
+PASS     | Task21_SyntaxDriven_Semantic_Analysis__noun_phrases_and_meanings.py | exit=0
+PASS     | Task22_Reference_Resolution_within_a_Text.py | exit=0
+PASS     | Task23_Text_Coherence_Evaluation.py | exit=0
+PASS     | Task24_Dialog_Act_Recognition.py | exit=0
+SKIPPED  | Task25_Text_Generation_using_OpenAI_GPT3_API.py | exit=0
+TIMEOUT  | Task26_Machine_Translation_using_Hugging_Face_Transformers.py | exit=timeout
+
+Totals: PASS=24, SKIPPED=1, FAIL=0, TIMEOUT=1

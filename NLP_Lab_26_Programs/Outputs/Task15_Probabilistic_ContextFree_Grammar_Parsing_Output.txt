@@ -1,0 +1,3 @@
+Sentence: John saw the dog
+(S (NP (Name John)) (VP (V saw) (NP (Det the) (N dog)))) (p=0.0504)
+Probability: 0.0504

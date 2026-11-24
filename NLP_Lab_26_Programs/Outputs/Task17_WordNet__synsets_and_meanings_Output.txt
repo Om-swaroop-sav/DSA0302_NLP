@@ -1,0 +1,7 @@
+Word: bank
+bank.n.01 | n | sloping land (especially the slope beside a body of water)
+depository_financial_institution.n.01 | n | a financial institution that accepts deposits and channels the money into lending activities
+bank.n.03 | n | a long ridge or pile
+bank.n.04 | n | an arrangement of similar objects in a row or in tiers
+bank.n.05 | n | a supply or stock held in reserve for future use (especially in emergencies)
+bank.n.06 | n | the funds held by a gambling house or the dealer in some gambling games

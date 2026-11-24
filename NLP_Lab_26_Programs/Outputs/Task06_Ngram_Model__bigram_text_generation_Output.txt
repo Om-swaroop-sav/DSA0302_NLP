@@ -1,0 +1,3 @@
+Training corpus: natural language processing helps computers understand human language natural language models learn patterns from text
+Generated text: natural language processing helps computers understand human language models learn patterns from
+Bigram count: 14

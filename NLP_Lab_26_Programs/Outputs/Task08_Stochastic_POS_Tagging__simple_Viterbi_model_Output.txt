@@ -1,0 +1,2 @@
+Tokens: ['the', 'dog', 'barks']
+Most likely tags: [('the', 'DET'), ('dog', 'NOUN'), ('barks', 'VERB')]

@@ -1,0 +1,12 @@
+Sentence: The intelligent student writes Python programs for language analysis.
+POS tags:
+The             DT
+intelligent     JJ
+student         NN
+writes          VBZ
+Python          NNP
+programs        NNS
+for             IN
+language        NN
+analysis        NN
+.               .

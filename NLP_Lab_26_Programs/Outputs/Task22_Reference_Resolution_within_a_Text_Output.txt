@@ -1,0 +1,4 @@
+she -> Meena
+it -> book
+He -> Ravi
+her -> Meena

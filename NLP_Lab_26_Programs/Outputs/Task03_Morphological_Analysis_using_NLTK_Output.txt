@@ -1,0 +1,9 @@
+Word | POS | lemma/root | feature
+The | DT | the | -
+students | NNS | student | plural noun
+were | VBD | be | past verb
+studying | VBG | study | -
+medical | JJ | medical | -
+records | NNS | record | plural noun
+carefully | RB | carefully | -
+. | . | . | -

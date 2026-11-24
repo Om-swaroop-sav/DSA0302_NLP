@@ -1,0 +1,4 @@
+Sentence: She deposited money at the bank beside the river.
+Target word: bank
+Selected sense: savings_bank.n.02
+Definition: a container (usually with a slot in the top) for keeping money at home

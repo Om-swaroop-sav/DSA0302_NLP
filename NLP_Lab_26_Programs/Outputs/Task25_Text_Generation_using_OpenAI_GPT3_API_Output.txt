@@ -1,0 +1,2 @@
+SKIPPED: API/model request could not be completed: AuthenticationError Error code: 401 - Incorrect API key provided: YOUR_API*****HERE. You can find your API key at https://platform.openai.com/account/api-keys.
+Note: access to the legacy text-davinci-003 model may not be available; set OPENAI_MODEL to a model enabled for your API account.

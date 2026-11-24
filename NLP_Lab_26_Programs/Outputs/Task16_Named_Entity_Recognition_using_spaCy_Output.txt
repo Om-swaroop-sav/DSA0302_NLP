@@ -1,0 +1,5 @@
+Text: Satya Nadella visited Microsoft in London on Monday.
+Satya Nadella        PERSON          People, including fictional
+Microsoft            ORG             Companies, agencies, institutions, etc.
+London               GPE             Countries, cities, states
+Monday               DATE            Absolute or relative dates or periods

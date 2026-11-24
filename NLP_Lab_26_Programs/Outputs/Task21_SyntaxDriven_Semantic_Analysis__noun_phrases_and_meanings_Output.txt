@@ -1,0 +1,4 @@
+Sentence: The intelligent doctor reviews patient records in the hospital.
+Noun phrases and head-word meanings:
+The intelligent doctor reviews patient records -> head=records: anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events
+the hospital -> head=hospital: a health facility where patients receive treatment

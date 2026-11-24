@@ -1,0 +1,3 @@
+Sentence: John saw the dog
+Earley parse count: 1
+(S (NP John) (VP (V saw) (NP (Det the) (N dog))))

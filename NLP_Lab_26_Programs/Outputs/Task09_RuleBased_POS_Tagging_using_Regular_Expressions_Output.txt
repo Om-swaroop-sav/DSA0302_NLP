@@ -1,0 +1,6 @@
+The             DET
+quick           ADJ
+student         NOUN
+writes          VERB
+carefully       ADV
+.               PUNCT

@@ -1,0 +1,4 @@
+the student writes code        -> AGREEMENT OK
+the students write code        -> AGREEMENT OK
+the student write code         -> AGREEMENT ERROR
+the students writes code       -> AGREEMENT ERROR

@@ -1,0 +1,3 @@
+Formula: forall x (Human(x) -> Mortal(x))
+Tokens: ['forall', 'x', '(', 'Human', '(', 'x', ')', '->', 'Mortal', '(', 'x', ')', ')']
+Parsed AST: ('forall', 'x', ('->', ('predicate', 'Human', ['x']), ('predicate', 'Mortal', ['x'])))

@@ -1,0 +1,8 @@
+book -> books
+bus -> buses
+box -> boxes
+church -> churches
+baby -> babies
+city -> cities
+child -> children
+mouse -> mice

@@ -1,0 +1,5 @@
+Text: Patient record: ID 2026, email om@example.com, phone 9876543210.
+email: om@example.com
+10-digit phone: 9876543210
+record ID: ID 2026
+All digit sequences: ['2026', '9876543210']
